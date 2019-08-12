@@ -300,11 +300,11 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    /* font-family: Righteous */
 }
 
 .mainheading h1.posttitle {
-    font-weight: 700;
+    /* font-weight: 700; */
     margin-bottom: 1rem;
 }
 
@@ -318,6 +318,13 @@ span.post-read-more a:hover {
     margin-bottom: 62px;
     position: relative;
     background: #fff;
+}
+
+.photo-credit {
+    font-size: 1rem;
+    color: rgba(0, 0, 0, .44);
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .link-dark {
